@@ -47,3 +47,6 @@ nav{background:var(--chocolate);color:var(--crema);height:90px}
 .hero-shade{background:linear-gradient(90deg,rgba(253,248,238,.97),rgba(253,248,238,.45) 44%,transparent 68%)}
 @media(max-width:900px){nav{height:80px}.hero-shade{background:linear-gradient(90deg,rgba(253,248,238,.95),rgba(253,248,238,.55) 50%,transparent)}}
 @media(max-width:600px){.hero-shade{background:linear-gradient(180deg,rgba(253,248,238,.98) 5%,rgba(253,248,238,.65) 45%,transparent 70%)}}
+.mark.logo-badge{width:62px;height:62px;padding:3px;background:#fff;border-radius:14px;object-fit:contain}
+.hero-content{z-index:auto}.hero-logo{display:block;width:clamp(110px,10vw,160px);height:auto;margin:0 0 18px;mix-blend-mode:multiply}
+@media(max-width:600px){.mark.logo-badge{width:40px;height:40px;border-radius:10px}.hero-logo{width:110px;margin-bottom:12px}}
