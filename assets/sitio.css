@@ -50,3 +50,4 @@ nav{background:var(--chocolate);color:var(--crema);height:90px}
 .mark.logo-badge{width:62px;height:62px;padding:3px;background:#fff;border-radius:14px;object-fit:contain}
 .hero-content{z-index:auto}.hero-logo{display:block;width:clamp(110px,10vw,160px);height:auto;margin:0 0 18px;mix-blend-mode:multiply}
 @media(max-width:600px){.mark.logo-badge{width:40px;height:40px;border-radius:10px}.hero-logo{width:110px;margin-bottom:12px}}
+@media(max-width:600px) and (max-height:760px){.hero-stamp{top:150px;bottom:auto;right:6vw;width:84px;height:84px;font-size:19px}}
