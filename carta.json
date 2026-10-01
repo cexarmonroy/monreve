@@ -1,0 +1,263 @@
+{
+  "tienda_uber_eats": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w",
+  "actualizado": "2026-09-30",
+  "categorias": [
+    {
+      "id": "trozos",
+      "nombre": "Trozos de pastel"
+    },
+    {
+      "id": "tortas",
+      "nombre": "Tortas y tartas"
+    },
+    {
+      "id": "empanadas",
+      "nombre": "Empanadas"
+    }
+  ],
+  "productos": [
+    {
+      "categoria": "trozos",
+      "nombre": "Pastel de Frambuesa",
+      "precio": 4550,
+      "descripcion": "Bizcocho de vainilla con manjar, frambuesa y crema chantilly.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-frambuesa.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522caf91d3a-ba6d-4af7-a815-1c2cc82ecb05%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Pastel Mon Rêve",
+      "precio": 4550,
+      "descripcion": "Bizcocho de vainilla y chocolate con crema de chocolate, crema diplomática, chantilly y mermelada de naranja.",
+      "etiqueta": "De la casa",
+      "foto": "assets/productos/pastel-monreve.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522073fbaea-83e4-4958-84c6-1bc6f97117db%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Selva Negra",
+      "precio": 4550,
+      "descripcion": "Bizcocho de chocolate, crema chantilly, mermelada de guinda y chocolate en rama.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-selvanegra.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%252271dde006-2abe-422f-ab51-9fafd6f4f984%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Achocolatado",
+      "precio": 4550,
+      "descripcion": "Crema de chocolate, crema achocolatada y trufa.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-achocolatado.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%25220d272f0f-d8f4-484a-a569-65cbad8917de%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Amapola",
+      "precio": 4550,
+      "descripcion": "Bizcocho de amapola, manjar y crema chantilly.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-amapola.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522167b1847-5140-4ccf-b5c8-470bca693153%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Moka",
+      "precio": 4550,
+      "descripcion": "Bizcocho de vainilla y chocolate, manjar con café y chantilly con café.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-moka.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%252266f41eb6-e6c7-457e-851c-90f738c1d0de%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Panqueque de Chocolate",
+      "precio": 4550,
+      "descripcion": "Panqueque de chocolate, crema de chocolate y remojo de frambuesa.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-panquequeChoc.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%25229aeac932-c847-41bc-8149-0e163e608fa9%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Panqueque Mixto",
+      "precio": 4550,
+      "descripcion": "Panqueque blanco, crema de chocolate y crema de naranja.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-panquequeMix.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522d35f0183-6f3f-47f4-b5bc-077cd27d15bb%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Cheesecake de Frambuesa",
+      "precio": 4650,
+      "descripcion": "Cheesecake de frambuesa.",
+      "etiqueta": "",
+      "foto": "assets/productos/Cheesecake-Framb.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%25228f39e540-7ebe-4dab-8c46-cb44604a99ca%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Cheesecake de Oreo",
+      "precio": 4650,
+      "descripcion": "Cheesecake de galleta Oreo.",
+      "etiqueta": "",
+      "foto": "assets/productos/Cheesecake-Oreo.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%25225b42a7b1-5278-4d9c-a680-de079db316f9%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Cheesecake de Maracuyá",
+      "precio": 4650,
+      "descripcion": "Cheesecake de maracuyá.",
+      "etiqueta": "",
+      "foto": "assets/productos/Cheesecake-Maracuya.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522e9640f10-d0c6-4c77-8566-d48db55b4583%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Milhojas Manjar Chocolate",
+      "precio": 4550,
+      "descripcion": "Milhojas con manjar y chocolate.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-milhojasManj.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%252226bf26a6-99b5-467d-9149-4105f82e46fa%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Milhojas Inglesa",
+      "precio": 4550,
+      "descripcion": "Crema diplomática, mermelada de frambuesa y crema chantilly.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-milhojasIngl.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522f78922c0-ec06-44b2-9a9e-544d905618b4%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Tres Leches",
+      "precio": 4550,
+      "descripcion": "Bizcocho tres leches.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-3leches.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%25221b9535c2-077d-40e3-b21c-7d64c47c1733%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Pie de Limón",
+      "precio": 4550,
+      "descripcion": "Pie de limón casero.",
+      "etiqueta": "",
+      "foto": "assets/productos/pastel-pieLimon.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%252219825f39-e669-4aae-988b-23bd18b48d36%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Repollo de Chocolate",
+      "precio": 4550,
+      "descripcion": "Manjar y crema chantilly.",
+      "etiqueta": "",
+      "foto": "assets/productos/repollo-Choc.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522218056be-f52b-41cb-8a0f-7476f0dd161f%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Eclair de Durazno",
+      "precio": 4550,
+      "descripcion": "Crema pastelera, crema chantilly y durazno.",
+      "etiqueta": "",
+      "foto": "assets/productos/eclairDuraz.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522362b7d31-fd79-40ab-9846-e6779b6ec739%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "trozos",
+      "nombre": "Pastel sin Azúcar",
+      "precio": 4650,
+      "descripcion": "Bizcocho de vainilla, manjar, crema chantilly, frambuesa y durazno.",
+      "etiqueta": "Sin azúcar",
+      "foto": "assets/productos/pastel-sinAzucar.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%2522eedb174d-2d19-42fb-b62e-cfbf9a58e8b3%2522%252C%2522itemUuid%2522%253A%2522e547ee62-351c-4905-8aeb-cc1969ea0b3d%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Torta Mon Rêve · 10 personas",
+      "precio": 34900,
+      "descripcion": "Bizcocho de vainilla y chocolate, con crema de chocolate, crema diplomática, crema chantilly y mermelada de naranja.",
+      "etiqueta": "De la casa",
+      "foto": "assets/productos/torta-Monreve.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Torta Amapola · 10 personas",
+      "precio": 34900,
+      "descripcion": "Bizcocho de amapola, manjar y crema chantilly.",
+      "etiqueta": "",
+      "foto": "assets/productos/torta-Amapola.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Tartaleta de Frutas Grande",
+      "precio": 19990,
+      "descripcion": "Tartaleta de frutas con crema pastelera.",
+      "etiqueta": "",
+      "foto": "assets/productos/tartaletaFrut-Grand.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Kuchen de Frutos Rojos Grande",
+      "precio": 12900,
+      "descripcion": "Kuchen de frutos rojos con crema pastelera.",
+      "etiqueta": "",
+      "foto": "assets/productos/kuchen-FrutRojos.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Kuchen de Manzana Grande",
+      "precio": 12900,
+      "descripcion": "Kuchen de manzana con crema pastelera.",
+      "etiqueta": "",
+      "foto": "assets/productos/kuchen-Manz.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "tortas",
+      "nombre": "Pie de Limón Grande",
+      "precio": 12900,
+      "descripcion": "Pie de limón casero.",
+      "etiqueta": "",
+      "foto": "assets/productos/pieLimonGrand.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    },
+    {
+      "categoria": "empanadas",
+      "nombre": "Empanada de Queso",
+      "precio": 3750,
+      "descripcion": "Empanada con queso.",
+      "etiqueta": "",
+      "foto": "assets/productos/empanada-Queso.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%252290e1270b-ff35-443b-ad59-159a79a9e82a%2522%252C%2522itemUuid%2522%253A%2522d4a94ba9-69a8-4eec-be09-ad4161e54112%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "empanadas",
+      "nombre": "Empanada Napolitana",
+      "precio": 3750,
+      "descripcion": "Jamón, queso, tomate y orégano.",
+      "etiqueta": "",
+      "foto": "assets/productos/empanada-Napo.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w?mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25228fb385c5-d08e-5790-adbb-ac10de0ac0eb%2522%252C%2522sectionUuid%2522%253A%25228055881d-a2e3-4cb9-a972-c6dd8081afe9%2522%252C%2522subsectionUuid%2522%253A%252290e1270b-ff35-443b-ad59-159a79a9e82a%2522%252C%2522itemUuid%2522%253A%25224b0bc8f3-e8a9-4786-b110-dc24e44cadc5%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1"
+    },
+    {
+      "categoria": "empanadas",
+      "nombre": "Empanada de Pino",
+      "precio": 3750,
+      "descripcion": "Empanada con pino de carne.",
+      "etiqueta": "",
+      "foto": "assets/productos/empanada-Pino.webp",
+      "enlace": "https://www.ubereats.com/store/mon-reve-don-carlos/j7OFxdCOV5Ctu6wQ3grA6w"
+    }
+  ]
+}
