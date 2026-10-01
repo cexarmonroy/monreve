@@ -40,20 +40,22 @@ nav{position:sticky;top:0;z-index:30;background:var(--chocolate);color:var(--cre
 .navlinks a:not(.btn):hover:after{transform:scaleX(1)}
 .navlinks .btn{padding:12px 20px;font-size:13px}
 
-/* Portada */
-.hero{display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(30px,5vw,90px);align-items:center;padding:clamp(48px,7vw,110px) var(--gutter) clamp(64px,8vw,120px);position:relative;overflow:hidden}
+/* Portada: fondo crema, titular Yeseva One, foto circular con el logo como sello */
+.hero{--h-bg:var(--crema);--h-titulo:var(--chocolate);--h-acento:#B8456B;--h-texto:var(--suave);--h-anillo:var(--glaseado);--h-linea:#E6CFC2;
+  background:var(--h-bg);display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;padding:clamp(48px,6vw,96px) var(--gutter) clamp(56px,7vw,110px)}
 .hero>*{min-width:0}
-.hero-logo{width:clamp(96px,9vw,140px);height:auto;margin:0 0 18px;mix-blend-mode:multiply}
-.hero h1{font:800 clamp(64px,8.4vw,160px)/.88 var(--display);letter-spacing:-.07em;margin:0 0 28px}
-.hero h1 em{display:block;font-style:italic;padding-bottom:.08em}
-.hero p{font-size:clamp(15px,1.25vw,18px);line-height:1.65;max-width:400px;margin:0 0 34px;color:var(--suave)}
-.hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:22px}
-.text-link{display:inline-flex;align-items:center;gap:12px;font-weight:800;font-size:14px;border-bottom:1px solid var(--espresso);padding-bottom:8px}
-.hero-art{position:relative;justify-self:center;width:min(100%,540px)}
-.hero-photo{width:100%;aspect-ratio:1;object-fit:cover;border-radius:50%;box-shadow:0 0 0 12px var(--glaseado),0 40px 70px -40px #26160C99}
-.hero-mini{position:absolute;left:-10%;bottom:-4%;width:31%;aspect-ratio:.8;object-fit:cover;border-radius:999px 999px 14px 14px;border:6px solid var(--crema);box-shadow:0 20px 40px -24px #26160C99}
-.hero-stamp{position:absolute;top:2%;right:-2%;width:clamp(96px,10vw,135px);aspect-ratio:1;background:var(--caramelo);color:var(--espresso);border-radius:50%;display:grid;place-content:center;text-align:center;transform:rotate(12deg);box-shadow:0 9px 18px #26160C2a;font:800 clamp(20px,2vw,26px)/.95 var(--display)}
-.hero-stamp small{font:700 9px var(--body);letter-spacing:1px;margin-top:8px}
+.hero-eyebrow{font:600 clamp(24px,2.2vw,30px)/1 'Caveat','Segoe Script',cursive;color:var(--h-acento);margin:0}
+.hero h1{font:400 clamp(40px,5.4vw,76px)/1.05 'Yeseva One','Didot',Georgia,serif;color:var(--h-titulo);margin:.3em 0 .4em;letter-spacing:0}
+.hero-lead{font-size:clamp(16px,1.3vw,18px);line-height:1.6;color:var(--h-texto);max-width:32em;margin:0 0 30px}
+.hero-actions{display:flex;flex-wrap:wrap;gap:12px}
+.hero-btn{display:inline-flex;align-items:center;gap:10px;background:var(--h-titulo);color:var(--crema);font-weight:800;font-size:16px;padding:14px 22px;border-radius:999px;transition:transform .15s}
+.hero-btn:hover{transform:translateY(-2px)}
+.hero-btn.ghost{background:transparent;color:var(--h-titulo);box-shadow:inset 0 0 0 2px var(--h-titulo)}
+.hero-art{position:relative;justify-self:center;width:min(100%,430px)}
+.hero-plate{width:100%;aspect-ratio:1;border-radius:50%;overflow:hidden;box-shadow:0 0 0 10px var(--h-anillo),0 0 0 11px var(--h-linea),0 30px 60px -30px #26160C99}
+.hero-plate img{width:100%;height:100%;object-fit:cover}
+.hero-badge{position:absolute;left:-6%;bottom:-4%;width:40%;aspect-ratio:1;border-radius:50%;background:#fff;display:grid;place-items:center;overflow:hidden;box-shadow:0 0 0 5px var(--h-bg),0 12px 24px -12px #26160C80}
+.hero-badge img{width:90%;height:auto}
 
 /* Cinta */
 .ribbon{display:flex;overflow:hidden;padding:20px 0;background:var(--chocolate);color:var(--crema);font:800 clamp(26px,3vw,40px) var(--display);letter-spacing:-1.2px}
@@ -132,10 +134,15 @@ footer{background:var(--chocolate);color:var(--crema);padding:clamp(60px,7vw,90p
 .footer-row .brand-text{font-size:18px}
 .footer-top{width:52px;height:52px;border-radius:50%;border:1px solid var(--crema);display:grid;place-items:center;font-size:22px}
 
+@media(max-width:760px){
+  .hero{grid-template-columns:1fr;text-align:center;padding-top:40px}
+  .hero-lead{margin-inline:auto}
+  .hero-actions{justify-content:center}
+  .hero-art{order:-1;width:min(82%,320px)}
+  .hero-badge{left:-4%}
+}
 @media(max-width:900px){
   .navlinks{gap:18px}.navlinks a:not(.btn){display:none}
-  .hero{grid-template-columns:1fr}
-  .hero-art{width:min(86%,420px);margin-top:20px}
   .cta-band,.visit{grid-template-columns:1fr}
   .map{min-height:340px}
 }
@@ -144,9 +151,6 @@ footer{background:var(--chocolate);color:var(--crema);padding:clamp(60px,7vw,90p
   .mark{width:40px;height:40px;border-radius:10px}
   .brand-text{font-size:17px}.brand-text small{letter-spacing:2px}
   .navlinks .btn{padding:10px 15px;font-size:12px}
-  .hero h1{font-size:clamp(60px,17vw,96px)}
-  .hero-logo{width:92px}
-  .hero-mini{left:-6%;width:32%}
   .filters .more{margin-left:0;width:100%}
   .products{grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 16px}
   .product h3{font-size:18px;margin-top:16px}
